@@ -1,7 +1,7 @@
 # SeDeNet
 TIFF Image Reading
 
-To read 32-bit TIFF images, please install the ALBULA software provided in the 32bit tiff file reader.zip file. This software is required for proper visualization and handling of the TIFF images.
+To read 32-bit TIFF images, please install the ALBULA software provided in the 32bit_tiff_file reader.zip file. This software is required for proper visualization and handling of the TIFF images.
 
 Environment Setup
 
